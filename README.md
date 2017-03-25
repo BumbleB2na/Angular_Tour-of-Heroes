@@ -1,4 +1,9 @@
-Following [Angular's Tour of Heroes tutorial](https://angular.io/docs/ts/latest/tutorial/).  
+This project demonstrates my progress while following [Angular's Tour of Heroes tutorial](https://angular.io/docs/ts/latest/tutorial/).  
   
-Began new github repository using [Angular quickstart (seeding project)](https://github.com/angular/quickstart) as a boilerplate.  
+Future state:  
+When complete, it will look and function like [this complete demo](https://embed.plnkr.co/?show=preview).  
+  
+Status:  
+1. Began new github repository using [Angular quickstart (seeding project)](https://github.com/angular/quickstart) as a boilerplate.  
+2. Is working locally like [this demo](https://embed.plnkr.co/?show=preview).  
   
