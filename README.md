@@ -8,3 +8,4 @@ Status:
 2. Is displaying hero details like in [this demo](https://embed.plnkr.co/?show=preview).  
 3. Hero list now displaying mock data with click to view details, like: [this demo](https://embed.plnkr.co/?show=preview).  
 4. Wrote reusable HeroDetailComponent. Nothing visibly changed.  
+5. Wrote HeroService to separate data in to own layer. AppComponent refactored to work like master class, initializing HeroService mock data and simulating data request from server. Nothing visibly changed.  
